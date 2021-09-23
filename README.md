@@ -15,14 +15,9 @@ npm i -D unknownify
 Add type definition file to your project.
 
 ```ts
-/// <reference path="path/to/node_modules/unknownify/lib/index.d.ts" />
+/// <reference path="path/to/node_modules/unknownify/lib/lib.d.ts" />
+// Or, specify type definition files you want to use
+/// <reference path="path/to/node_modules/unknownify/lib/lib.es5.d.ts" />
 ```
 
-Don't forget to override the path to match the directory structure of your project.  
-Show example of putting type definition files in the `types` directory.
-
-`types/unknownify.d.ts`:
-
-```ts
-/// <reference path="../node_modules/unknownify/lib/index.d.ts" />
-```
+Don't forget to override the path to match the directory structure of your project.
