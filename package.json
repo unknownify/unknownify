@@ -1,0 +1,11 @@
+{
+  "name": "unknownify",
+  "version": "0.1.0",
+  "description": "Replace any with unknown on type definitions for built-in ECMAScript APIs",
+  "files": [
+    "lib"
+  ],
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
