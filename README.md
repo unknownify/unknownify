@@ -4,7 +4,7 @@ Replace any with unknown on type definitions for built-in ECMAScript APIs
 
 ## Installation
 
-Add unknownify to your project's devDependencies.
+Add unknownify to devDependencies of your project.
 
 ```sh
 npm i -D unknownify
