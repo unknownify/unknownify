@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/unknownify.svg)](https://badge.fury.io/js/unknownify)
+
 # unknownify
 
 Replace any with unknown on type definitions for built-in ECMAScript APIs
