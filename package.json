@@ -6,6 +6,6 @@
     "lib"
   ],
   "devDependencies": {
-    "typescript": "4.4.4"
+    "typescript": "5.4.3"
   }
 }
